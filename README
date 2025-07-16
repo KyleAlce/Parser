@@ -1,6 +1,6 @@
-# Simple Lexer V1
+# Simple Parser V1
 
-It is a simple Lexer to transforme arithmetical expression string into Tokens.
+A prototype of a parser, don't work with all expression (And i don't like the code)
 
 ## Installation
 
