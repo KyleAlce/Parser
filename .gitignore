@@ -1,0 +1,30 @@
+# Dossier de configuration de VS Code
+.vscode/
+
+# Fichiers objets
+*.o
+*.obj
+
+# Fichiers exécutables
+lex
+*.exe
+*.out
+
+# Fichiers de sauvegarde temporaires
+*~
+*.swp
+*.bak
+
+# Dossiers de build potentiels
+/build/
+/bin/
+/dist/
+
+# Fichiers de log
+*.log
+
+# Compilation CMake ou autres outils
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile

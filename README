@@ -1,0 +1,16 @@
+# Simple Lexer V1
+
+It is a simple Lexer to transforme arithmetical expression string into Tokens.
+
+## Installation
+
+```bash
+git clone https://github.com/KyleAlce/CLexer.git
+cd CLexer
+make
+```
+
+## Authors
+
+KyleAlce
+
